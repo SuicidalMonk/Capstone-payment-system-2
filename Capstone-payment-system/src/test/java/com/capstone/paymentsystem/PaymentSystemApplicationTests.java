@@ -1,4 +1,4 @@
-package com.capstone.paymentsystem;
+/*package com.capstone.paymentsystem;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
@@ -10,4 +10,4 @@ class PaymentSystemApplicationTests {
 	void contextLoads() {
 	}
 
-}
+}*/
